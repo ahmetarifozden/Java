@@ -15,6 +15,6 @@ public class day1 {
 
        selamlama();
         System.out.println("dedeede");
-        //bu bir denemedirasasa
+        //bu bir denemedirasasaasdasdas
     }
 }
