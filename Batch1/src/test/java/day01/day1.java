@@ -15,6 +15,5 @@ public class day1 {
 
        selamlama();
         System.out.println("dedeede");
-        //bu bir denemedirasasaasdasdasasdasdas
     }
 }
