@@ -57,7 +57,7 @@ public class gelismis_not_hesaplama {
         } else if (toplamnot >= 80) {
             System.out.println("BB aldınız...");
         } else if (toplamnot >= 75) {
-            System.out.println("CB aldınız...");
+            System.out.println("CB aldınız....");
         } else if (toplamnot >= 70) {
             System.out.println("CC aldınız...");
         } else if (toplamnot >= 65) {
