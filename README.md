@@ -27,9 +27,4 @@ Bu repo, **(42 Saat) Sıfırdan Komple Java Geliştirici Kursu** sırasında yaz
   - Multithreading
   - JavaFX ile GUI geliştirme
 
-## Kullanım
 
-Bu projeyi bilgisayarınıza klonlamak için:
-
-```bash
-git clone https://github.com/kullanici_adiniz/java-gelistirici-kursu.git
